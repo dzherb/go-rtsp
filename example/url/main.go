@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/Danile71/go-rtsp"
+	"github.com/dzherb/go-rtsp"
 	"github.com/mattn/go-mjpeg"
 )
 
